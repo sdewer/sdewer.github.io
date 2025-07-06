@@ -4,7 +4,7 @@ email: stefan@dewberrybees.com
 url: https://www.dewberrybees.com
 description: "Dewberry Bees is a small beekeeping business in Nailsea, North Somerset, producing local wildflower honey and natural beeswax products. Support the environment with our adopt-a-bee and hive sponsorship packages."
 keywords: "Dewberry Bees, Nailsea honey, North Somerset honey, local honey, wildflower honey, beeswax products, adopt a bee, hive sponsorship, beekeeping, eco-friendly gifts, natural skincare, sustainable beekeeping, support pollinators"
-skills: "Bee Keeper - Honey - Beeswax Products"
+skills: "Honey - Beekeeping - Beeswax Products"
 meta_author: Dewer Stefan
 
 # Google webmaster tools
@@ -34,8 +34,8 @@ color:
 footer:
   copyright: Dewberry Bees
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Socials
+  #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,7 +50,7 @@ address:
   - line: North Somerset, UK
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
